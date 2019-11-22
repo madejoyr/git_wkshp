@@ -1,10 +1,10 @@
 MEMBER_1 = "Madeline"
 MEMBER_2 = "Gurpreet"
-MEMBER_3 = "Ramon"
+MEMBER_3 = "Lucy"
 
 MEMBER_1_HOME = "St. Joseph, MI"
 MEMBER_2_HOME = "Delhi, India"
-MEMBER_3_HOME = "Monterrey, Mexico"
+MEMBER_3_HOME = "Ann Arbor, MI"
 
 MEMBERS = {
     MEMBER_1:MEMBER_1_HOME,
